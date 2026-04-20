@@ -40,10 +40,3 @@ O conhecimento contido neste caderno foi sintetizado a partir de uma curadoria r
 
 ## 🧠 Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 
-*Nesta seção, registro as variações de prompts testadas e as lições aprendidas ao lidar com as limitações dos modelos.*
-
-> [!TIP]
-> **Dica de Ouro:** O mercado valoriza o raciocínio por trás do código. Documentar onde a IA falhou e como o prompt foi ajustado é o que demonstra senioridade.
-
----
-*Desenvolvido com foco em Análise e Desenvolvimento de Sistemas.*
