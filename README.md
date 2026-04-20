@@ -1,24 +1,49 @@
-#🐍 Caderno Temático: Master Python & Agentic Workflows
+# 🐍 Caderno Temático: Domine Python e Fluxos de Trabalho Agentes
 
-#🎯 Contexto e Objetivos
-Este repositório é o resultado de um estudo dirigido focado na maestria da linguagem Python, integrando fundamentos clássicos com as fronteiras da Inteligência Artificial. O assunto escolhido para este caderno temático abrange desde a Sintaxe Estruturada e POO até a aplicação dessas bases na construção de Agentes Inteligentes.
+![Python Version](https://img.shields.io/badge/python-3.14.4-blue.svg)
+![Status](https://img.shields.io/badge/status-em_desenvolvimento-green.svg)
+![Category](https://img.shields.io/badge/category-ADS_/_IA-orange.svg)
 
-Objetivos de Estudo:
-Domínio Técnico Gradual: Consolidar o conhecimento através dos 4 "Mundos" do Python (Fundamentos, Controle, Estruturas Compostas e POO), garantindo uma base sólida para o desenvolvimento de sistemas robustos.
+## 🎯 Contexto e Objetivos
 
-Integração com IA Generativa: Utilizar o Python como linguagem principal para explorar Agentic Design Patterns e a técnica ReAct, visando a aplicação prática no projeto EduMentor AI.
+> Este repositório é o resultado de um estudo direcionado na maestria da linguagem **Python**, integrando fundamentos clássicos com as fronteiras da **Inteligência Artificial**. 
 
-Construção de Base de Conhecimento: Criar um guia de referência rápida e confiável que una teoria acadêmica (Documentação Oficial e Python Brasil) com resoluções práticas de problemas reais.
+O escopo deste caderno abrange desde a **Sintaxe Estruturada e POO** até a aplicação dessas bases na construção de **Agentes Inteligentes**, servindo como um hub de conhecimento para o projeto **EduMentor AI**.
 
-Prática de Prompt Engineering: Desenvolver e refinar prompts estratégicos para extrair o máximo potencial analítico de LLMs durante o processo de aprendizagem e depuração de código.
+---
 
-📚 Curadoria de Fontes (NotebookLM)
-O conhecimento contido neste caderno foi sintetizado a partir de uma curadoria rigorosa de fontes abertas, processadas para garantir respostas precisas e fundamentadas:
+### 🚀 Objetivos de Estudo
 
-Documentação Oficial Python (v3.14.4): A fonte primária de verdade sobre a linguagem. [https://docs.python.org/3/]
+* **🧱 Domínio Técnico Gradual**
+    Consolidar o conhecimento através dos **4 "Mundos"** (Fundamentos, Controle, Estruturas Compostas e POO), garantindo uma base sólida para sistemas robustos.
+* **🤖 Integração com IA Generativa**
+    Exploração de *Agentic Design Patterns* e a técnica **ReAct**, utilizando Python como motor principal de automação.
+* **📚 Base de Conhecimento Centralizada**
+    Unir teoria acadêmica e documentação oficial com resoluções práticas de problemas reais.
+* **✍️ Prompt Engineering**
+    Refinar prompts estratégicos para extrair o máximo potencial analítico de LLMs no processo de aprendizagem e *debugging*.
 
-The Hitchhiker’s Guide to Python: Melhores práticas de ambiente e estruturação de projetos. [https://docs.python-guide.org/]
+---
 
-Python Brasil (Wiki): Acervo comunitário com focos em exercícios de lógica e algoritmos. [https://wiki.python.org.br/ListaDeExercicios]
+## 📚 Curadoria de Fontes (NotebookLM)
 
-Transcrição "Curso em Vídeo" (Guanabara): Base didática para a progressão prática de desafios. [https://docs.python.org/3.14/]
+O conhecimento contido neste caderno foi sintetizado a partir de uma curadoria rigorosa de fontes abertas, processadas para garantir respostas fundamentadas:
+
+| Fonte | Descrição | Link |
+| :--- | :--- | :--- |
+| **Documentação Oficial** | Fonte primária de verdade sobre a linguagem (v3.14.4). | [Acessar](https://docs.python.org/3/) |
+| **The Hitchhiker’s Guide** | Melhores práticas de ambiente e estruturação. | [Acessar](https://docs.python-guide.org/) |
+| **Python Brasil (Wiki)** | Acervo comunitário focado em lógica e algoritmos. | [Acessar](https://wiki.python.org.br/ListaDeExercicios) |
+| **Curso em Vídeo** | Base didática para progressão prática de desafios. | [Acessar](https://www.youtube.com/c/cursoemvideo) |
+
+---
+
+## 🧠 Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+
+*Nesta seção, registro as variações de prompts testadas e as lições aprendidas ao lidar com as limitações dos modelos.*
+
+> [!TIP]
+> **Dica de Ouro:** O mercado valoriza o raciocínio por trás do código. Documentar onde a IA falhou e como o prompt foi ajustado é o que demonstra senioridade.
+
+---
+*Desenvolvido com foco em Análise e Desenvolvimento de Sistemas.*
