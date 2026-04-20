@@ -34,7 +34,7 @@ O assunto escolhido para este caderno temático abrange desde a **Sintaxe Estrut
 
 Abaixo estão os prompts estratégicos desenvolvidos. Clique em cada seção para expandir e copiar o conteúdo com a formatação correta.
 
-# 📑 Prompt 1: Fundamentos e Estrutura Mental
+### 📑 Prompt 1: Fundamentos e Estrutura Mental
 **Objetivo:** Entender a semântica e organização de dados.
 <details>
 <summary>Clique para expandir o Prompt</summary>
@@ -53,7 +53,7 @@ Aborde os seguintes tópicos de forma didática:
 Ao final, crie um único script de exemplo que utilize todos esses conceitos.
 ```
 
-# 📝 Prompt 2: Roteiro de Desafios Lógicos
+### 📝 Prompt 2: Roteiro de Desafios Lógicos
 **Foco:** Prática progressiva e aprendizado ativo.
 <details>
 <summary>Clique para expandir o Prompt</summary>
@@ -71,7 +71,7 @@ Forneça apenas os enunciados.
 Diga que está aguardando eu enviar a solução do primeiro para você corrigir.
 ```
 
-# 🗄️ Prompt 3: Integração com Bancos de Dados
+### 🗄️ Prompt 3: Integração com Bancos de Dados
 **Foco:** Persistência de dados e infraestrutura.
 <details>
 <summary>Clique para expandir o Prompt</summary>
@@ -96,7 +96,7 @@ Ajuste de Rota: Durante os testes, percebi que se não especificarmos "Forneça 
 ---
 ## 🐍 Miniguia de Estudo: Python & Agentes de IA 
 
-# 1. Resumos Estruturados
+### 1. Resumos Estruturados
 <details>
 <summary>Clique para expandir o Prompt</summary>
 
@@ -106,4 +106,50 @@ A "Mente" do Python: O Python é uma linguagem de alto nível, interpretada e de
 Modularização e Reuso: A linguagem permite dividir sistemas complexos em pacotes e módulos. Essa capacidade de componentização é vital para o desenvolvimento de software escalável, permitindo que diferentes funcionalidades sejam isoladas em arquivos independentes, facilitando testes unitários e o reaproveitamento de código em múltiplos sistemas.
 
 A Transição para Agentes (ReAct): O aprendizado evoluiu da lógica procedural clássica para o modelo Reason + Act (Raciocínio + Ação). Neste paradigma, o Python atua como o cérebro de um sistema que não apenas processa dados, mas usa lógica para decidir dinamicamente qual ferramenta externa (banco de dados, APIs ou scripts de automação) deve ser invocada para resolver uma tarefa complexa.
+```
+### 📚 Glossário de Conceitos-Chave
+| Termo | Definição |
+| :--- | :--- |
+| **PEP 8** | Guia de estilo oficial que define as melhores práticas de formatação para garantir que o código seja legível e padronizado. |
+| **Tipagem Dinâmica** | Característica do Python onde o tipo da variável é definido em tempo de execução, sem necessidade de declaração explícita. |
+| **Indentação** | Espaçamento obrigatório no início das linhas que define a estrutura e o escopo de blocos de código (substituindo as chaves {}). |
+| **List Comprehension** | Sintaxe concisa para criar novas listas a partir de iteráveis, unindo loops e condições em uma única linha de código. |
+| **Docstrings** | Strings literais usadas para documentar módulos, funções e classes, permitindo a geração automática de manuais.|
+| **F-Strings** | Método de formatação de strings (f"texto {variavel}") que permite interpolar expressões de forma rápida e intuitiva. |
+| **Paradigma POO** | Programação Orientada a Objetos; organiza o software em torno de dados (objetos) e lógica (métodos), usando herança e polimorfismo. |
+| **ReAct (Reason + Act)** | Técnica que combina raciocínio lógico e execução de ações, permitindo que sistemas usem ferramentas externas para resolver tarefas. |
+| **LLM Agent** | Implementação onde modelos de linguagem utilizam scripts (geralmente Python) para interagir com o mundo real e APIs. |
+
+### 📑 Prompts Reutilizáveis para Revisão
+Estes prompts foram refinados para apoiar futuras revisões ou expansões deste caderno temático:
+
+**Prompt de Revisão Teórica:**
+<details>
+<summary>Clique para expandir o Prompt</summary>
+
+```text
+"Resuma os conceitos de Herança e Polimorfismo em Python, destacando as principais 
+diferenças sintáticas em relação a linguagens de tipagem estática (como Java). 
+Forneça um exemplo prático de Herança Múltipla."
+```
+
+**Prompt de Code Review:**
+<details>
+<summary>Clique para expandir o Prompt</summary>
+
+```text
+"Aja como um Engenheiro de Software Sênior. Analise o seguinte código Python:
+[COLE SEU CÓDIGO AQUI]
+Verifique a conformidade com a PEP 8 e sugira refatorações para melhorar 
+a legibilidade e a performance."
+````
+
+**Prompt de Expansão de Conhecimento:**
+<details>
+<summary>Clique para expandir o Prompt</summary>
+    
+```text
+"Explique o fluxo de um agente que utiliza a técnica ReAct (Reason + Act). 
+Como o Python gerencia as 'ferramentas' (tools) que a IA pode decidir usar 
+durante a execução de uma tarefa?"
 ```
