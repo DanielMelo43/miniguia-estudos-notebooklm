@@ -1,5 +1,6 @@
 #🐍 Caderno Temático: Master Python & Agentic Workflows
-🎯 Contexto e Objetivos
+
+#🎯 Contexto e Objetivos
 Este repositório é o resultado de um estudo dirigido focado na maestria da linguagem Python, integrando fundamentos clássicos com as fronteiras da Inteligência Artificial. O assunto escolhido para este caderno temático abrange desde a Sintaxe Estruturada e POO até a aplicação dessas bases na construção de Agentes Inteligentes.
 
 Objetivos de Estudo:
