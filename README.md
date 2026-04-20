@@ -34,7 +34,7 @@ O assunto escolhido para este caderno temático abrange desde a **Sintaxe Estrut
 
 Abaixo estão os prompts estratégicos desenvolvidos. Clique em cada seção para expandir e copiar o conteúdo com a formatação correta.
 
-📑 Prompt 1: Fundamentos e Estrutura Mental
+# 📑 Prompt 1: Fundamentos e Estrutura Mental
 **Objetivo:** Entender a semântica e organização de dados.
 <details>
 <summary>Clique para expandir o Prompt</summary>
@@ -53,7 +53,7 @@ Aborde os seguintes tópicos de forma didática:
 Ao final, crie um único script de exemplo que utilize todos esses conceitos.
 ```
 
-📝 Prompt 2: Roteiro de Desafios Lógicos
+# 📝 Prompt 2: Roteiro de Desafios Lógicos
 **Foco:** Prática progressiva e aprendizado ativo.
 <details>
 <summary>Clique para expandir o Prompt</summary>
@@ -71,7 +71,7 @@ Forneça apenas os enunciados.
 Diga que está aguardando eu enviar a solução do primeiro para você corrigir.
 ```
 
-🗄️ Prompt 3: Integração com Bancos de Dados
+# 🗄️ Prompt 3: Integração com Bancos de Dados
 **Foco:** Persistência de dados e infraestrutura.
 <details>
 <summary>Clique para expandir o Prompt</summary>
@@ -96,7 +96,7 @@ Ajuste de Rota: Durante os testes, percebi que se não especificarmos "Forneça 
 ---
 ## 🐍 Miniguia de Estudo: Python & Agentes de IA 
 
-1. Resumos Estruturados
+# 1. Resumos Estruturados
 <details>
 <summary>Clique para expandir o Prompt</summary>
 
