@@ -34,7 +34,7 @@ O assunto escolhido para este caderno temático abrange desde a **Sintaxe Estrut
 
 Abaixo estão os prompts estratégicos desenvolvidos. Clique em cada seção para expandir e copiar o conteúdo com a formatação correta.
 
-### 📑 Prompt 1: Fundamentos e Estrutura Mental
+📑 Prompt 1: Fundamentos e Estrutura Mental
 **Objetivo:** Entender a semântica e organização de dados.
 <details>
 <summary>Clique para expandir o Prompt</summary>
