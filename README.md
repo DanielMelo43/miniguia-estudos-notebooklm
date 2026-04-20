@@ -92,3 +92,18 @@ Por fim, compare quando usar SQLite (local) vs PostgreSQL (servidor).
 ## 🩹 Cicatrizes
 
 Ajuste de Rota: Durante os testes, percebi que se não especificarmos "Forneça apenas os enunciados" no Prompt 2, a IA resolve o exercício sozinha, o que anula o estudo. Adicionar essa restrição foi o que permitiu o aprendizado ativo.
+
+---
+## 🐍 Miniguia de Estudo: Python & Agentes de IA 
+
+1. Resumos Estruturados
+<details>
+<summary>Clique para expandir o Prompt</summary>
+
+```text
+A "Mente" do Python: O Python é uma linguagem de alto nível, interpretada e de tipagem dinâmica. Sua principal característica é a legibilidade extrema, imposta pela indentação obrigatória, que substitui as chaves {} de linguagens como Java ou C#. Isso força o desenvolvedor a escrever um código visualmente organizado e de fácil manutenção.
+
+Modularização e Reuso: A linguagem permite dividir sistemas complexos em pacotes e módulos. Essa capacidade de componentização é vital para o desenvolvimento de software escalável, permitindo que diferentes funcionalidades sejam isoladas em arquivos independentes, facilitando testes unitários e o reaproveitamento de código em múltiplos sistemas.
+
+A Transição para Agentes (ReAct): O aprendizado evoluiu da lógica procedural clássica para o modelo Reason + Act (Raciocínio + Ação). Neste paradigma, o Python atua como o cérebro de um sistema que não apenas processa dados, mas usa lógica para decidir dinamicamente qual ferramenta externa (banco de dados, APIs ou scripts de automação) deve ser invocada para resolver uma tarefa complexa.
+```
