@@ -97,8 +97,6 @@ Ajuste de Rota: Durante os testes, percebi que se não especificarmos "Forneça 
 ## 🐍 Miniguia de Estudo: Python & Agentes de IA 
 
 ### 1. Resumos Estruturados
-<details>
-<summary>Clique para expandir o Prompt</summary>
 
 ```text
 A "Mente" do Python: O Python é uma linguagem de alto nível, interpretada e de tipagem dinâmica. Sua principal característica é a legibilidade extrema, imposta pela indentação obrigatória, que substitui as chaves {} de linguagens como Java ou C#. Isso força o desenvolvedor a escrever um código visualmente organizado e de fácil manutenção.
