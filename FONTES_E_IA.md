@@ -23,7 +23,7 @@ As seguintes referências foram utilizadas para alimentar a IA:
 
 Para visualizar as interações, resumos e a árvore de conhecimento gerada por IA, você pode acessar o caderno público através do link abaixo:
 
-👉 **[Acessar Caderno de Python no NotebookLM](COLE_AQUI_O_LINK_QUE_VOCE_COPIOU)**
+👉 **[Acessar Caderno de Python no NotebookLM](https://notebooklm.google.com/notebook/a548831b-e333-48a0-a2fe-73a179435ff0)**
 
 > **Nota:** É necessário possuir uma conta Google para visualizar o conteúdo interativo da ferramenta.
 
