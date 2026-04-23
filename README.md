@@ -1,25 +1,25 @@
-# 🐍 Caderno Temático: Domine Python e Fluxos de Trabalho Agentes
+# Caderno Temático: Domine Python e Fluxos de Trabalho Agentes
 
 ![Python Version](https://img.shields.io/badge/python-3.14.4-blue.svg)
 ![Status](https://img.shields.io/badge/status-em_desenvolvimento-green.svg)
 ![Category](https://img.shields.io/badge/category-ADS_/_IA-orange.svg)
 
-## 🎯 Contexto e Objetivos
+## Contexto e Objetivos
 
 > Este repositório é o resultado de um estudo direcionado na maestria da linguagem **Python**, integrando fundamentos clássicos com as fronteiras da **Inteligência Artificial**. 
 
 O assunto escolhido para este caderno temático abrange desde a **Sintaxe Estruturada e POO** até a aplicação dessas bases na construção de **Agentes Inteligentes**, servindo como base técnica para o projeto **EduMentor AI**.
 
-### 🚀 Objetivos de Estudo
+### Objetivos de Estudo
 
-* **🧱 Domínio Técnico Gradual:** Consolidar o conhecimento através dos **4 "Mundos"** (Fundamentos, Controle, Estruturas Compostas e POO).
-* **🤖 Integração com IA Generativa:** Utilização do Python para explorar *Agentic Design Patterns* e a técnica **ReAct**.
-* **📚 Base de Conhecimento:** Criar um guia de referência rápido que una teoria acadêmica com resoluções práticas.
-* **✍️ Prompt Engineering:** Desenvolver e refinar prompts estratégicos para extrair o máximo potencial analítico de LLMs.
+* ** Domínio Técnico Gradual:** Consolidar o conhecimento através dos **4 "Mundos"** (Fundamentos, Controle, Estruturas Compostas e POO).
+* ** Integração com IA Generativa:** Utilização do Python para explorar *Agentic Design Patterns* e a técnica **ReAct**.
+* ** Base de Conhecimento:** Criar um guia de referência rápido que una teoria acadêmica com resoluções práticas.
+* ** Prompt Engineering:** Desenvolver e refinar prompts estratégicos para extrair o máximo potencial analítico de LLMs.
 
 ---
 
-## 📚 Curadoria de Fontes (NotebookLM)
+## Curadoria de Fontes (NotebookLM)
 
 | Fonte | Descrição | Link |
 | :--- | :--- | :--- |
@@ -30,11 +30,11 @@ O assunto escolhido para este caderno temático abrange desde a **Sintaxe Estrut
 
 ---
 
-## 🧠 Engenharia de Prompts (Biblioteca de Consulta)
+## Engenharia de Prompts (Biblioteca de Consulta)
 
 Abaixo estão os prompts estratégicos desenvolvidos. Clique em cada seção para expandir e copiar o conteúdo com a formatação correta.
 
-### 📑 Prompt 1: Fundamentos e Estrutura Mental
+### Prompt 1: Fundamentos e Estrutura Mental
 **Objetivo:** Entender a semântica e organização de dados.
 <details>
 <summary>Clique para expandir o Prompt</summary>
@@ -53,7 +53,7 @@ Aborde os seguintes tópicos de forma didática:
 Ao final, crie um único script de exemplo que utilize todos esses conceitos.
 ```
 
-### 📝 Prompt 2: Roteiro de Desafios Lógicos
+### Prompt 2: Roteiro de Desafios Lógicos
 **Foco:** Prática progressiva e aprendizado ativo.
 <details>
 <summary>Clique para expandir o Prompt</summary>
@@ -71,7 +71,7 @@ Forneça apenas os enunciados.
 Diga que está aguardando eu enviar a solução do primeiro para você corrigir.
 ```
 
-### 🗄️ Prompt 3: Integração com Bancos de Dados
+### Prompt 3: Integração com Bancos de Dados
 **Foco:** Persistência de dados e infraestrutura.
 <details>
 <summary>Clique para expandir o Prompt</summary>
@@ -89,12 +89,12 @@ Para cada banco, detalhe:
 Por fim, compare quando usar SQLite (local) vs PostgreSQL (servidor).
 ```
 --- 
-## 🩹 Cicatrizes
+## Cicatrizes
 
 Ajuste de Rota: Durante os testes, percebi que se não especificarmos "Forneça apenas os enunciados" no Prompt 2, a IA resolve o exercício sozinha, o que anula o estudo. Adicionar essa restrição foi o que permitiu o aprendizado ativo.
 
 ---
-## 🐍 Miniguia de Estudo: Python & Agentes de IA 
+## Miniguia de Estudo: Python & Agentes de IA 
 
 ### 1. Resumos Estruturados
 
@@ -105,7 +105,7 @@ Modularização e Reuso: A linguagem permite dividir sistemas complexos em pacot
 
 A Transição para Agentes (ReAct): O aprendizado evoluiu da lógica procedural clássica para o modelo Reason + Act (Raciocínio + Ação). Neste paradigma, o Python atua como o cérebro de um sistema que não apenas processa dados, mas usa lógica para decidir dinamicamente qual ferramenta externa (banco de dados, APIs ou scripts de automação) deve ser invocada para resolver uma tarefa complexa.
 ```
-### 📚 Glossário de Conceitos-Chave
+### Glossário de Conceitos-Chave
 | Termo | Definição |
 | :--- | :--- |
 | **PEP 8** | Guia de estilo oficial que define as melhores práticas de formatação para garantir que o código seja legível e padronizado. |
@@ -118,7 +118,7 @@ A Transição para Agentes (ReAct): O aprendizado evoluiu da lógica procedural 
 | **ReAct (Reason + Act)** | Técnica que combina raciocínio lógico e execução de ações, permitindo que sistemas usem ferramentas externas para resolver tarefas. |
 | **LLM Agent** | Implementação onde modelos de linguagem utilizam scripts (geralmente Python) para interagir com o mundo real e APIs. |
 
-### 📑 Prompts Reutilizáveis para Revisão
+### Prompts Reutilizáveis para Revisão
 Estes prompts foram refinados para apoiar futuras revisões ou expansões deste caderno temático:
 
 **Prompt de Revisão Teórica:**
