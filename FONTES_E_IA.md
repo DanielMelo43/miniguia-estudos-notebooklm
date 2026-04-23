@@ -19,13 +19,4 @@ As seguintes referências foram utilizadas para alimentar a IA:
 4. **Transcrição do Curso em Vídeo (Gustavo Guanabara):** Base pedagógica para os desafios lógicos.
 
 ---
-## 🔗 Acesso Direto ao Caderno (NotebookLM)
-
-Para visualizar as interações, resumos e a árvore de conhecimento gerada por IA, você pode acessar o caderno público através do link abaixo:
-
-👉 **[Acessar Caderno de Python no NotebookLM](https://notebooklm.google.com/notebook/a548831b-e333-48a0-a2fe-73a179435ff0)**
-
-> **Nota:** É necessário possuir uma conta Google para visualizar o conteúdo interativo da ferramenta.
-
-
 *Este material foi consolidado utilizando técnicas de RAG (Retrieval-Augmented Generation) via NotebookLM.*
